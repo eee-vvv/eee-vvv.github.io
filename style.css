@@ -2,6 +2,13 @@ p {
 	color: #32718c;
 }
 
+img {
+	max-width: 90%;
+	height: auto;
+}
+
+}
+
 .content {
 	margin-top: 100px;
 	margin-left: 50px;
